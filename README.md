@@ -1,6 +1,6 @@
-# 📊 Sales & Order Management Analytics
+# Sales & Order Management Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a SQL-based Sales & Order Management Analytics System developed using MySQL.
 
@@ -10,7 +10,7 @@ The project demonstrates both basic and advanced SQL concepts used in real-world
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Design a relational database for sales and order management
 - Store customer, product, order, and payment information
